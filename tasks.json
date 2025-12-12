@@ -1,7 +1,7 @@
 {
   "presets": [
     {
-      "id": "isa pa",
+      "id": "clean_indoor_unit_filters",
       "label": "Clean indoor unit filters",
       "task": "Remove, wash, dry, and reinstall filters.",
       "description": "A first-person view of the AC indoor unit with the user's hands removing, washing, or reinstalling the air filters. The filters are visible in the user's hands, or the hands are opening the front panel to access them.",

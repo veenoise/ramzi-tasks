@@ -1,0 +1,53 @@
+{
+  "presets": [
+    {
+      "id": "clean_indoor_unit_filters",
+      "label": "Clean indoor unit filters",
+      "task": "Remove, wash, dry, and reinstall filters.",
+      "description": "A first-person view of the AC indoor unit with the user's hands removing, washing, or reinstalling the air filters. The filters are visible in the user's hands, or the hands are opening the front panel to access them.",
+      "status": "waiting"
+    },
+    {
+      "id": "inspect_evaporator_coil",
+      "label": "Inspect evaporator coil",
+      "task": "Check for dust accumulation or corrosion.",
+      "description": "A first-person view showing the AC unit's front panel open and the evaporator coil exposed. The user's hands are pointing at, touching, or holding a flashlight toward the coil to inspect dust, dirt, or corrosion.",
+      "status": "waiting"
+    },
+    {
+      "id": "check_air_flow",
+      "label": "Check air flow",
+      "task": "Ensure no obstruction to indoor or outdoor airflow.",
+      "description": "First-person view showing the user’s hand in front of the split-type aircon.",
+      "status": "waiting"
+    },
+    {
+      "id": "inspect_refrigerant_lines",
+      "label": "Inspect refrigerant lines",
+      "task": "Check insulation and any visible leaks.",
+      "description": "A first-person view of the refrigerant pipes near the indoor or outdoor unit. The user's hands are touching, pointing at, or adjusting the insulation on the refrigerant lines, visually checking for damage or leaks.",
+      "status": "waiting"
+    },
+    {
+      "id": "clean_outdoor_condenser_fins",
+      "label": "Clean outdoor condenser fins",
+      "task": "Remove debris, dust, and obstructions.",
+      "description": "A first-person view of the outdoor condenser unit with the user's hands holding a brush, water sprayer, or cleaning tool and actively cleaning the condenser fins. The fins are clearly visible as debris is being removed.",
+      "status": "waiting"
+    },
+    {
+      "id": "tighten_electrical_terminals",
+      "label": "Tighten electrical terminals",
+      "task": "Inspect for loose or burnt connections.",
+      "description": "A first-person view of the opened electrical terminal panel of the AC unit. The user's hands are holding a screwdriver or tool and tightening or checking the electrical terminals and wires inside the panel.",
+      "status": "waiting"
+    },
+    {
+      "id": "check_thermostat_calibration",
+      "label": "Check thermostat calibration",
+      "task": "Adjust to maintain proper temperature control.",
+      "description": "A first-person view of the thermostat mounted on the wall. The user's hand is touching the screen or buttons, adjusting temperature settings, or comparing readings for calibration. The display is clearly visible.",
+      "status": "waiting"
+    }
+  ]
+}
